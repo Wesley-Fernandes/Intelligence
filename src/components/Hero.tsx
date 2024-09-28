@@ -18,9 +18,9 @@ export default function Hero() {
           <h1 className="text-5xl font-bold leading-none sm:text-6xl xl:max-w-3xl dark:text-gray-50">
             Intelligence
           </h1>
-          <p className="mt-6 mb-8 font-semibold text-lg sm:mb-12 xl:max-w-3xl text-gray-50 md:flex md:items-center md:gap-1">
-          Líder de Mercado em soluções de tecnologia para <span><Typefication/></span>
-          </p>
+          <span className="mt-6 mb-8 font-semibold text-lg sm:mb-12 xl:max-w-3xl text-gray-50 md:flex md:items-center md:gap-1">
+          Líder de Mercado em soluções de tecnologia para <div><Typefication/></div>
+          </span>
           <div className="flex flex-wrap justify-center">
             <button
               type="button"
