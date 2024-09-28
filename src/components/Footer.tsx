@@ -11,6 +11,7 @@ export default function Footer() {
           <li><Link href="/#tecnologias">Tecnologias</Link></li>
           <li><Link href="/#atualidades">Atualidades</Link></li>
           <li><Link href="/#contato">Contate-nos</Link></li>
+          <li><Link href="/#inicio">Desenvolvido por <strong>Wesley Fernandes</strong></Link></li>
         </ul>
         <div className="flex flex-col justify-center pt-6 lg:pt-0">
           <div className="flex justify-center space-x-4">
